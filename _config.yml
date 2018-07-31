@@ -1,15 +1,10 @@
 name: Rujia Wang
 description: Personal website
 menu:
- - page: About
-   url: /about
+ - page: Home
+   url: /
  - page: Publications
-   url: /papers
-   links:
-    - title: Working papers
-      url: "#working-papers"
-    - title: Published papers
-      url: "#published-papers"
+   url: /publications
  - page: Research Projects
    url: /research
 <!-- - page: Curriculum Vitae -->
