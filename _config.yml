@@ -1,9 +1,9 @@
-name: Rujia Wang's Homepage
+name: Rujia Wang
 description: Personal website
 menu:
  - page: About
    url: /about
- - page: Papers
+ - page: Publications
    url: /papers
    links:
     - title: Working papers
@@ -12,32 +12,10 @@ menu:
       url: "#published-papers"
  - page: Research Projects
    url: /research
-   links:
-    - title: "Project One"
-      url: "#project-one"
-    - title: "Project Two"
-      url: "#project-two"
-    - title: "Project Three"
-      url: "#project-three"
-    - title: "Project Four"
-      url: "#project-four"
- - page: Curriculum Vitae
-   url: /cv
-   links:
-    - title: Experience
-      url: "#experience"
-    - title: Education
-      url: "#education"
-    - title: Positions
-      url: "#positions"
-    - title: Miscellaneous
-      url: "#miscellaneous"
+<!-- - page: Curriculum Vitae -->
+<!--   url: /cv -->
  - page: Teaching
    url: /teaching
- - page: Media
-   url: /media
- - page: Accolades
-   url: /accolades
 menu_external:
  - title: CS@Illinois Institute of Technology
    url: "https://science.iit.edu/computer-science"
