@@ -6,7 +6,8 @@ layout: default
 ---
 Check the full list of publications at [Google Scholar](https://scholar.google.com/citations?user=IbOb-M4AAAAJ&hl=en).
 
-## Conference Papers
+### Conference Papers
+1. paper
+1. paper
 
-
-## Journal Publications
+### Journal Publications
