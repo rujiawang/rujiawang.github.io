@@ -7,8 +7,8 @@ menu:
    url: /publications
  - page: Research Projects
    url: /research
-<!-- - page: Curriculum Vitae -->
-<!--   url: /cv -->
+# - page: Curriculum Vitae
+#   url: /cv
  - page: Teaching
    url: /teaching
 menu_external:
