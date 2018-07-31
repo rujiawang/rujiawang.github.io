@@ -5,7 +5,7 @@ date: 2018-08-01
 layout: default
 ---
 
-![Researcher Portrait]({{ "/assets/images/photo.jpg" }}){:height="300px"}
+<!-- ![Researcher Portrait]({{ "/assets/images/photo.jpg" }}){:height="300px"} -->
 
 ### Short Bio
 Rujia Wang is an assistant professor at CS@IIT, starting from Fall 2018. She graduated from University of Pittsburgh with M.S. and Ph.D. degree in 2015 and 2018, and Zhejiang University in 2013.

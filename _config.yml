@@ -15,7 +15,7 @@ menu_external:
  - title: CS@Illinois Institute of Technology
    url: "https://science.iit.edu/computer-science"
  - title: Group page
-   url: "TBA"
+   url: ""
 mathjax: false
 markdown: kramdown
 encoding: utf-8
