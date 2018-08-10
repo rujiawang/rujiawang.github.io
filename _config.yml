@@ -5,17 +5,13 @@ menu:
    url: /
  - page: Publications
    url: /publications
- - page: Research Projects
-   url: /research
-# - page: Curriculum Vitae
-#   url: /cv
  - page: Teaching
    url: /teaching
+ - page: Services
+   url: /services
 menu_external:
  - title: CS@Illinois Institute of Technology
    url: "https://science.iit.edu/computer-science"
- - title: Group page
-   url: ""
 mathjax: false
 markdown: kramdown
 encoding: utf-8

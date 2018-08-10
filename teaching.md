@@ -7,7 +7,9 @@ layout: default
 #### CS 350 Computer Organization & Assembly Language Programming (Fall 2018)
 
 Time:
+
 Lecture: M/W 3:15PM--4:30PM
+
 Lab: F 3:15PM--4:05PM
 
 #### Introduction
@@ -20,3 +22,4 @@ TBA
 TBA
 
 #### Schedule
+TBA
