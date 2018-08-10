@@ -12,7 +12,7 @@
 					{% include menu.html context="mobile" %}
 				</div>
 			</nav>
-			
+
 			<div class="pure-pusher-container">
 				<div class="pure-pusher">
 					<label class="pure-toggle-label hidden-md-up" for="pure-toggle-left" data-toggle-label="left"><span class="pure-toggle-icon"></span></label>
@@ -37,7 +37,7 @@
 					</div>
 				</div>
 			</div>
-			<label class="pure-overlay" for="pure-toggle-left" data-overlay="left"></label> 
+			<label class="pure-overlay" for="pure-toggle-left" data-overlay="left"></label>
 		</div>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" crossorigin="anonymous"></script>
@@ -49,7 +49,7 @@
 			truncate: 128
 		};
 		anchors.add('article h2, article h3, article h4, article h5, article h6');
-		
+
 		$(function() {
 			$("table").addClass("table");
 			$("table").wrap('<div class="table-responsive"></div>');
@@ -58,5 +58,18 @@
 		{% if site.mathjax %}
 		<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 		{% endif %}
+		<!-- Default Statcounter code for My website https://rujiawang.github.io/ -->
+		<script type="text/javascript">
+		var sc_project=11788774;
+		var sc_invisible=1;
+		var sc_security="95bf5e40";
+		</script>
+		<script type="text/javascript"
+		src="https://www.statcounter.com/counter/counter.js" async></script>
+		<noscript><div class="statcounter"><a title="web stats"
+		href="http://statcounter.com/" target="_blank"><img class="statcounter"
+		src="//c.statcounter.com/11788774/0/95bf5e40/1/" alt="web
+		stats"></a></div></noscript>
+		<!-- End of Statcounter Code -->
 	</body>
 </html>
