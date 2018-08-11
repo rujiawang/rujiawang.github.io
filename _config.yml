@@ -1,5 +1,5 @@
 name: Rujia Wang
-description: Personal website
+description: Rujia Wang's Personal website and Homepage
 menu:
  - page: Home
    url: /
@@ -17,3 +17,5 @@ markdown: kramdown
 encoding: utf-8
 baseurl: rujiawang.github.io
 locale: en_GB
+plugins:
+  - jekyll-seo-tag
