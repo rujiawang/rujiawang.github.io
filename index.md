@@ -1,13 +1,13 @@
 ---
 title: "Home"
 summary: "Home"
-date: 2018-08-01
+date: 2018-08-22
 layout: default
 ---
 
 Dr. Rujia Wang is an assistant professor at Computer Science Department, Illinois Institute of Technology, starting from Fall 2018. She graduated from University of Pittsburgh with M.S. and Ph.D. degree in 2015 and 2018, and Zhejiang University in 2013.
 
-Office: Stuart Building
+Office: Stuart Building 208F
 
 Email: rujia.w@pitt.edu
 
