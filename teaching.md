@@ -16,7 +16,10 @@ This course covers several fundamental topics that solve the question: How does 
 M/W 4:30-5:30PM or by appointment (SB 208F).
 
 #### Teaching assistant
+##### Graduate TA:
+* Peng, Jian jpeng10@hawk.iit.edu
 
+##### Undergraduate TAs:
 * L03 Neth, Andrew      aneth@hawk.iit.edu
 * L03 Kong, Anna        akong1@hawk.iit.edu
 * L04 Tran, Vincent H.	vtran5@hawk.iit.edu
@@ -28,14 +31,14 @@ The office hour for the TAs will be announced.
 | Week | Monday | Lecture       | Wednesday | Lecture             | Friday Lab |
 |------|--------|---------------|-----------|---------------------|------------|
 | 1    | 8/20   | *Introduction | 8/22      | *Introduction       | No Lab     |
-| 2    | 8/27   | *             | 8/29      | *                   |            |
-| 3    | 9/3    | No Class      | 9/5       | Data Representation |            |
+| 2    | 8/27   | Performance   | 8/29      | Performance, Data Representation |Lab 0|
+| 3    | 9/3    | **No Class**  | 9/5       | Data Representation |            |
 | 4    | 9/10   | ISA           | 9/12      | ISA                 |            |
 
-** The first two weeks of lecture is covered by Prof. Micheal Choi.
+** The first week's lecture is covered by Prof. Micheal Choi and the video is available online.
 
 #### Lab Assignment
-TBA
+* Lab 0, Unix Programming 
 
 #### Textbook
 Recommended textbooks:

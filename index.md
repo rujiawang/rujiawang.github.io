@@ -1,7 +1,7 @@
 ---
 title: "Home"
 summary: "Home"
-date: 2018-08-22
+date: 2018-08-27
 layout: default
 ---
 
@@ -9,7 +9,9 @@ Dr. Rujia Wang is an assistant professor at Computer Science Department, Illinoi
 
 Office: Stuart Building 208F
 
-Email: rujia.w@pitt.edu
+Phone: 312-567-5812
+
+Email: rwang67@iit.edu
 
 
 ### Research Interests
