@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 summary: "Teaching"
-date: 2018-08-22
+date: 2018-09-09
 layout: default
 ---
 #### CS 350 Computer Organization & Assembly Language Programming (Fall 2018)
@@ -31,14 +31,16 @@ The office hour for the TAs will be announced.
 | Week | Monday | Lecture       | Wednesday | Lecture             | Friday Lab |
 |------|--------|---------------|-----------|---------------------|------------|
 | 1    | 8/20   | *Introduction | 8/22      | *Introduction       | No Lab     |
-| 2    | 8/27   | Performance   | 8/29      | Performance, Data Representation |Lab 0|
-| 3    | 9/3    | **No Class**  | 9/5       | Data Representation |            |
+| 2    | 8/27   | Performance   | 8/29      | Performance, Data Representation |Lab 1|
+| 3    | 9/3    | **No Class**  | 9/5       | Data Representation | Lab 2      |
 | 4    | 9/10   | ISA           | 9/12      | ISA                 |            |
+| 5    | 9/17   | ISA           | 9/19      | Assembly&Simulation |            |
+
 
 ** The first week's lecture is covered by Prof. Micheal Choi and the video is available online.
 
 #### Lab Assignment
-* Lab 0, Unix Programming 
+Please check Blackboard for lab assignment.
 
 #### Textbook
 Recommended textbooks:
