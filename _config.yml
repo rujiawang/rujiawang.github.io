@@ -15,7 +15,8 @@ menu_external:
 mathjax: false
 markdown: kramdown
 encoding: utf-8
-baseurl: rujiawang.github.io
+url: "https://rujiawang.github.io"
+baseurl: ""
 locale: en_GB
 plugins:
   - jekyll-seo-tag
