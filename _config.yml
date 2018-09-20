@@ -5,6 +5,8 @@ menu:
    url: /
  - page: Publications
    url: /publications
+ - page: Research
+   url: /research
  - page: Teaching
    url: /teaching
  - page: Services

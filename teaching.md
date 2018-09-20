@@ -1,12 +1,13 @@
 ---
 title: "Teaching"
 summary: "Teaching"
-date: 2018-09-09
+date: 2018-09-17
 layout: default
 ---
 #### CS 350 Computer Organization & Assembly Language Programming (Fall 2018)
 
 Lecture: M/W 3:15PM--4:30PM
+
 Lab: F 3:15PM--4:05PM
 
 #### Introduction
@@ -20,30 +21,26 @@ M/W 4:30-5:30PM or by appointment (SB 208F).
 * Peng, Jian jpeng10@hawk.iit.edu
 
 ##### Undergraduate TAs:
-* L03 Neth, Andrew      aneth@hawk.iit.edu
-* L03 Kong, Anna        akong1@hawk.iit.edu
-* L04 Tran, Vincent H.	vtran5@hawk.iit.edu
-* L04 Soni, Paavan P.	  psoni1@hawk.iit.edu
+* Neth, Andrew      aneth@hawk.iit.edu
+* Kong, Anna        akong1@hawk.iit.edu
+* Tran, Vincent H.	vtran5@hawk.iit.edu
+* Soni, Paavan P.	  psoni1@hawk.iit.edu
 
 The office hour for the TAs will be announced.
-#### Schedule
+#### Schedule and Lab Assignment
+Please check Blackboard via MyIIT to access detailed schedule.
 
-| Week | Monday | Lecture       | Wednesday | Lecture             | Friday Lab |
-|------|--------|---------------|-----------|---------------------|------------|
-| 1    | 8/20   | *Introduction | 8/22      | *Introduction       | No Lab     |
-| 2    | 8/27   | Performance   | 8/29      | Performance, Data Representation |Lab 1|
-| 3    | 9/3    | **No Class**  | 9/5       | Data Representation | Lab 2      |
-| 4    | 9/10   | ISA           | 9/12      | ISA                 |            |
-| 5    | 9/17   | ISA           | 9/19      | Assembly&Simulation |            |
+***Important Dates:***
 
+* Midterm Exam: 10/10 in class
+* Final Exam: 12/7 8AM-10AM
 
-** The first week's lecture is covered by Prof. Micheal Choi and the video is available online.
+Exams are open book, open notes. No internet/computer/ipad is allowed to use.
 
-#### Lab Assignment
-Please check Blackboard for lab assignment.
 
 #### Textbook
 Recommended textbooks:
+
 * Computer Organization and Design (5th Edition), by David Patterson and John Hennessy, 2013 Morgan Kauffmann.
 ***We will be using this book and cover MIPS architecture in our lecture.***
 
