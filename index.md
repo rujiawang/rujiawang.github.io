@@ -1,7 +1,7 @@
 ---
 title: "Home"
 summary: "Home"
-date: 2018-08-27
+date: 2018-09-20
 layout: default
 ---
 
@@ -18,7 +18,10 @@ Email: rwang67@iit.edu
 * Architecture-driven system security,
 * Scalable memory architecture,
 * High performance computing,
-* System reliability​​
+* System reliability​​.
 
 <span style="color:red">***I am currently recruiting Ph.D. Students in the area of computer system and architecture. Details can be found [here](/students). Please send me your CV and transcript if you are interested!***</span>
 
+### Updates
+* [Travel] I will represent Illinois Tech at the in Grace Hopper Expo 2018. See you in Houston on 9/26.
+* [Paper] One collaborative work is accepted in ASP-DAC 2019.
