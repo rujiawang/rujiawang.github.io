@@ -1,9 +1,12 @@
 ---
 title: "Services"
-summary: "About this page."
-date: 2018-08-01
+summary: "Services."
+date: 2018-10-18
 layout: default
 ---
+**Conference Technical Program Committee**
+* Design Automation Conference (DAC), 2019
+
 
 **Conference External Reviewer Committee**
 * International Symposium on High-performance Computer Architecture (HPCA), 2019
