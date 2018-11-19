@@ -1,7 +1,7 @@
 ---
 title: "Students"
 summary: "."
-date: 2018-08-01
+date: 2018-11-14
 layout: default
 ---
 
@@ -18,4 +18,4 @@ Preferred skills:
 * knowledge of computer system and architecture
 * enthusiastic and motivated in research
 
-Each student will be assigned to a project that aligns with his or her background and interest. Please send your CV, transcript and TOEFL/GRE to me if you are interested. To apply, please visit [IIT CS admission website](https://science.iit.edu/computer-science/programs/graduate/graduate-program-resources/phd-computer-science-admission).
+Each student will be assigned to a project that aligns with his or her background and interest. Please send me your CV, transcript and TOEFL/GRE to me if you are interested. To apply, please visit [IIT CS admission website](https://science.iit.edu/computer-science/programs/graduate/graduate-program-resources/phd-computer-science-admission).
