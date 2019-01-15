@@ -1,7 +1,7 @@
 ---
 title: "Services"
 summary: "Services."
-date: 2018-11-18
+date: 2019-01-14
 layout: default
 ---
 
@@ -14,15 +14,15 @@ layout: default
 **Conference Technical Program Committee**
 * Languages, Compilers, Tools and Theory of Embedded Systems (LCTES), 2019
 * Design Automation Conference (DAC), 2019
-
+* Young Architect Workshop (YArch), co-located with HPCA 2019
 
 **Conference External Reviewer Committee**
 * International Symposium on High-performance Computer Architecture (HPCA), 2019
-
 
 **Journal Reviewer**
 * IEEE Transactions on Computers (TOC)
 * ACM Transactions on Storage (TOS)
 * IEEE Transactions on VLSI (TVLSI)
+* IEEE Transactions on Parallel and Distributed Systems (TPDS)
 * IEEE Computer Architecture Letters (CAL)
 * IEEE Micro
