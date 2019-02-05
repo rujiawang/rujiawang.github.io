@@ -1,33 +1,35 @@
 ---
 title: "Publications"
 summary: "Publications"
-date: 2018-09-09
+date: 2019-02-01
 layout: default
 ---
 Check the full list of publications at [Google Scholar](https://scholar.google.com/citations?user=IbOb-M4AAAAJ&hl=en).
 
 ### Conference Papers
-1. [ASPDAC2019] Xianwei Zhang, __Rujia Wang__, Youtao Zhang, and Jun Yang,
+1. [DAC 2019] Liang Liu, __Rujia Wang__, Youtao Zhang, and Jun Yang,
+*H-ORAM: A Cacheable ORAM Interface for Efficient I/O Accesses*
+1. [ASPDAC 2019] Xianwei Zhang, __Rujia Wang__, Youtao Zhang, and Jun Yang,
 *Boosting Chipkill Capability under Retention-Error Induced Reliability Emergency*
-1. [HPCA2018] __Rujia Wang__, Youtao Zhang, and Jun Yang,
+1. [HPCA 2018] __Rujia Wang__, Youtao Zhang, and Jun Yang,
 *D-ORAM: Path-ORAM Delegation for Low Execution Interference on Cloud Servers with Untrusted Memory*
-1. [HPCA2017] __Rujia Wang__, Youtao Zhang, and Jun Yang,
+1. [HPCA 2017] __Rujia Wang__, Youtao Zhang, and Jun Yang,
 *Cooperative Path ORAM for Effective Memory Bandwidth Sharing in Server Settings*
-1. [DSN2016] __Rujia Wang__, Youtao Zhang, and Jun Yang,
+1. [DSN 2016] __Rujia Wang__, Youtao Zhang, and Jun Yang,
 *ReadDuo: Constructing Reliable MLC Phase Change Memory through Fast and Robust Readout*
-1. [DAC2015] __Rujia Wang__, Lei Jiang, Youtao Zhang, Linzhang Wang, and Jun Yang,
+1. [DAC 2015] __Rujia Wang__, Lei Jiang, Youtao Zhang, Linzhang Wang, and Jun Yang,
 *Selective Restore: an Energy Efficient Read Disturbance Mitigation Scheme for Future STT-MRAM*
-1. [DAC2015] __Rujia Wang__, Lei Jiang, Youtao Zhang, Linzhang Wang, and Jun Yang,
+1. [DAC 2015] __Rujia Wang__, Lei Jiang, Youtao Zhang, Linzhang Wang, and Jun Yang,
 *Exploit Imbalanced Cell Writes to Mitigate Write Disturbance in Dense Phase Change Memory*
-1. [ASPLOS2015] __Rujia Wang__, Lei Jiang, Youtao Zhang, and Jun Yang,
+1. [ASPLOS 2015] __Rujia Wang__, Lei Jiang, Youtao Zhang, and Jun Yang,
 *SD-PCM: Constructing Reliable Super Dense Phase Change Memory under Write Disturbance*
 
 
 
 ### Journal Publications
-1. [CAL2017] __Rujia Wang__, Sparsh Mittal, Youtao Zhang, and Jun Yang,
+1. [CAL 2017] __Rujia Wang__, Sparsh Mittal, Youtao Zhang, and Jun Yang,
 *Decongest: Accelerating Super-Dense PCM under Write Disturbance by Hot Page Remapping*
-1. [JLPEA2017] Sparsh Mittal, __Rujia Wang__ and Jeffrey Vetter,
+1. [JLPEA 2017] Sparsh Mittal, __Rujia Wang__ and Jeffrey Vetter,
 *DESTINY: A Comprehensive Tool with 3D and Multi-Level Cell Memory Modeling Capability*
 
 

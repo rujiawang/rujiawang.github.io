@@ -1,7 +1,7 @@
 ---
 title: "Home"
 summary: "Home"
-date: 2018-11-14
+date: 2019-02-01
 layout: default
 ---
 
@@ -27,6 +27,7 @@ Email: rwang67@iit.edu
 
 
 ### Updates
+* [Paper] One work is accepted in DAC 2019.
 * [Travel] I will attend NSF CSR PI meeting in Seattle.
 * [Service] I will serve as TPC member for DAC 2019.
 * [Travel] I will represent Illinois Tech at the in Grace Hopper Expo 2018 in Houston.
