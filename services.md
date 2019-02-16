@@ -1,7 +1,7 @@
 ---
 title: "Services"
 summary: "Services."
-date: 2019-01-14
+date: 2019-02-10
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 **Conference Organization Committee**
 * Registration Chair, International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2019
 * Publicity Chair, International Conference on Networking, Architecture and Storage (NAS), 2019
-
+* Registration Chair, IEEE International Symposium on Workload Characterization (IISWC), 2019
 
 **Conference Technical Program Committee**
 * Languages, Compilers, Tools and Theory of Embedded Systems (LCTES), 2019
@@ -26,3 +26,4 @@ layout: default
 * IEEE Transactions on Parallel and Distributed Systems (TPDS)
 * IEEE Computer Architecture Letters (CAL)
 * IEEE Micro
+* Journal of Systems Architecture (JSA), Elsevier

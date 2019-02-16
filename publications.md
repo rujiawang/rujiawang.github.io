@@ -1,14 +1,20 @@
 ---
 title: "Publications"
 summary: "Publications"
-date: 2019-02-01
+date: 2019-02-14
 layout: default
 ---
 Check the full list of publications at [Google Scholar](https://scholar.google.com/citations?user=IbOb-M4AAAAJ&hl=en).
 
+***
+
+\* Students I primarily advise.
+
 ### Conference Papers
-1. [DAC 2019] Liang Liu, __Rujia Wang__, Youtao Zhang, and Jun Yang,
+1. [DAC 2019] Liang Liu\*, __Rujia Wang__, Youtao Zhang, and Jun Yang,
 *H-ORAM: A Cacheable ORAM Interface for Efficient I/O Accesses*
+1. [DAC 2019-WIP] Yuezhi Che\*, __Rujia Wang__,
+*Improving Ring ORAM Read Performance with Imbalance-aware Scheduling*
 1. [ASPDAC 2019] Xianwei Zhang, __Rujia Wang__, Youtao Zhang, and Jun Yang,
 *Boosting Chipkill Capability under Retention-Error Induced Reliability Emergency*
 1. [HPCA 2018] __Rujia Wang__, Youtao Zhang, and Jun Yang,
