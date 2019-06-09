@@ -6,10 +6,9 @@ layout: default
 ---
 ### Welcome to <span style="color:FireBrick">Computer Architecture Lab at Illinois Tech (CALIT)!</span>
 
-Our research lab is working on the state-of-the-art architecture and system design for next generation computing infrastructure. We are particularly interested in high performance secure and reliable architectures.
+Our research lab is working on the state-of-the-art architecture and system design for emerging computing needs. 
 
 Check the [Publications Page](/publications) to learn more!
-
 
 
 **Faculty:** 
@@ -18,7 +17,8 @@ Check the [Publications Page](/publications) to learn more!
 
 **Ph.D. Student:**
 
-* Yuezhi Che (2018-)
+* Yuezhi Che (2018- )
+* Jiao Qu (2019- )
 * Interested? Apply [here](/students).
 
 

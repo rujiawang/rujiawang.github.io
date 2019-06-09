@@ -1,17 +1,19 @@
 ---
 title: "Services"
 summary: "Services."
-date: 2019-02-10
+date: 2019-05-01
 layout: default
 ---
 
 
 **Conference Organization Committee**
 * Registration Chair, International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2019
-* Publicity Chair, International Conference on Networking, Architecture and Storage (NAS), 2019
 * Registration Chair, IEEE International Symposium on Workload Characterization (IISWC), 2019
+* Publicity Chair, International Conference on Networking, Architecture and Storage (NAS), 2019
+* Session Chair, Design Automation Conference (DAC), 2019
 
 **Conference Technical Program Committee**
+* IEEE International Conference on Computer Design (ICCD), 2019
 * Languages, Compilers, Tools and Theory of Embedded Systems (LCTES), 2019
 * Design Automation Conference (DAC), 2019
 * Young Architect Workshop (YArch), co-located with HPCA 2019

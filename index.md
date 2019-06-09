@@ -17,9 +17,8 @@ Email: rwang67@iit.edu
 ### Research Interests
 **I do research in computer architecture and system area, including:**
 
-* Architecture and system security and reliability,
 * Scalable memory system architecture,
-* High performance computing.
+* System simulation and modeling.
 
 <span style="color:red">***I am currently recruiting Ph.D. Students in the area of computer system and architecture. Details can be found [here](/students). Please send me your CV and transcript if you are interested!***</span>
 
