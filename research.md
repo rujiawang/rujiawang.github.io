@@ -1,7 +1,7 @@
 ---
 title: "Research"
 summary: "Research"
-date: 2018-11-19
+date: 2019-08-15
 layout: default
 ---
 ### Welcome to <span style="color:FireBrick">Computer Architecture Lab at Illinois Tech (CALIT)!</span>

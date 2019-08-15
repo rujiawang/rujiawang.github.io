@@ -1,7 +1,7 @@
 ---
 title: "Services"
 summary: "Services."
-date: 2019-05-01
+date: 2019-08-15
 layout: default
 ---
 
@@ -29,3 +29,6 @@ layout: default
 * IEEE Computer Architecture Letters (CAL)
 * IEEE Micro
 * Journal of Systems Architecture (JSA), Elsevier
+* IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+* IEEE Transactions on Computers (TC)
+
