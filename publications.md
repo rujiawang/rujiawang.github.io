@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 summary: "Publications"
-date: 2019-02-14
+date: 2019-09-20
 layout: default
 ---
 Check the full list of publications at [Google Scholar](https://scholar.google.com/citations?user=IbOb-M4AAAAJ&hl=en).
@@ -11,6 +11,8 @@ Check the full list of publications at [Google Scholar](https://scholar.google.c
 \* Students I primarily advise.
 
 ### Conference Papers
+1. [ICCD 2019] Yuezhi Che\*, Yuan Hong, __Rujia Wang__,
+*Imbalance-aware scheduler for fast and secure Ring ORAM data retrieval*
 1. [DAC 2019] Liang Liu\*, __Rujia Wang__, Youtao Zhang, and Jun Yang,
 *H-ORAM: A Cacheable ORAM Interface for Efficient I/O Accesses*
 1. [DAC 2019-WIP] Yuezhi Che\*, __Rujia Wang__,
