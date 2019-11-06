@@ -23,11 +23,10 @@ layout: default
 
 **Journal Editorial**
 
-* Guest co-editor, IEEE Transactions on Computers (TOC), special issue on Hardware Security
+* Guest co-editor, IEEE Transactions on Computers (TC), special issue on Hardware Security
 
 **Journal Reviewer**
 
-* IEEE Transactions on Computers (TOC)
 * ACM Transactions on Storage (TOS)
 * IEEE Transactions on VLSI (TVLSI)
 * IEEE Transactions on Parallel and Distributed Systems (TPDS)

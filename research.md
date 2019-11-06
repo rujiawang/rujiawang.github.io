@@ -1,7 +1,7 @@
 ---
 title: "Research"
 summary: "Research"
-date: 2019-08-15
+date: 2019-11-05
 layout: default
 ---
 ### Welcome to <span style="color:FireBrick">Computer Architecture Lab at Illinois Tech (CALIT)!</span>
@@ -15,12 +15,21 @@ Check the [Publications Page](/publications) to learn more!
 
 * Dr. Rujia Wang
 
-**Ph.D. Student:**
+**Ph.D. Students:**
 
 * Yuezhi Che (2018- )
 * Jiao Qu (2019- )
 * Interested? Apply [here](/students).
 
+**M.S. Student**
+
+* Yuanzhou Yang
+
+**Undergrad Students**
+
+* Iris Uwizeyimana (co-advised with Kyle Hale)
+* Hussain Khajanchi (co-advised with Kyle Hale)
+ 
 
 
 

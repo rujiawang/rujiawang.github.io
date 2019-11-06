@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 summary: "Publications"
-date: 2019-09-20
+date: 2019-11-10
 layout: default
 ---
 Check the full list of publications at [Google Scholar](https://scholar.google.com/citations?user=IbOb-M4AAAAJ&hl=en).
@@ -11,6 +11,8 @@ Check the full list of publications at [Google Scholar](https://scholar.google.c
 \* Students I primarily advise.
 
 ### Conference Papers
+1. [HPCA 2020] Yuezhi Che\*, __Rujia Wang__,
+*Multi-range Supported Oblivious RAM for Efficient Block Data Retrieval* 
 1. [ICCD 2019] Yuezhi Che\*, Yuan Hong, __Rujia Wang__,
 *Imbalance-aware scheduler for fast and secure Ring ORAM data retrieval*
 1. [DAC 2019] Liang Liu\*, __Rujia Wang__, Youtao Zhang, and Jun Yang,

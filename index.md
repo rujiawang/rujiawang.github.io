@@ -1,7 +1,7 @@
 ---
 title: "Home"
 summary: "Home"
-date: 2019-09-23
+date: 2019-11-06
 layout: default
 ---
 
@@ -28,5 +28,6 @@ Dr. Rujia Wang is an assistant professor at Computer Science Department, Illinoi
 
 
 ### Updates
+* [Paper] One work is accepted in HPCA 2020. This is the first HPCA (prestigious conference in computer architecture) paper with all authors from Illinois Tech!
 * [Service] Rujia serves as a co-guest editor for [IEEE TC’s Special Issue on Hardware Security](https://www.computer.org/digital-library/journals/tc/call-for-papers-special-issue-on-hardware-security). We look forward to your best work!
 * [Paper] One work is accepted in ICCD 2019.
