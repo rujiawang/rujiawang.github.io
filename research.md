@@ -17,18 +17,18 @@ Check the [Publications Page](/publications) to learn more!
 
 **Ph.D. Students:**
 
-* Yuezhi Che (2018- )
-* Jiao Qu (2019- )
+* Mr. Yuezhi Che (2018- )
+* Ms. Jiao Qu (2019- )
 * Interested? Apply [here](/students).
 
-**M.S. Student**
+**Master Student**
 
-* Yuanzhou Yang
+* Mr. Yuanzhou Yang
 
 **Undergrad Students**
 
-* Iris Uwizeyimana (co-advised with Kyle Hale)
-* Hussain Khajanchi (co-advised with Kyle Hale)
+* Ms. Iris Uwizeyimana (co-advised with Kyle Hale)
+* Mr. Hussain Khajanchi (co-advised with Kyle Hale)
  
 
 
