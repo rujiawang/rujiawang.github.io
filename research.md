@@ -19,6 +19,7 @@ Check the [Publications Page](/publications) to learn more!
 
 * Mr. Yuezhi Che (2018- )
 * Ms. Jiao Qu (2019- )
+* Mr. Gang Liu (visiting Ph.D. student, 2019- )
 * Interested? Apply [here](/students).
 
 **Master Student**
