@@ -28,11 +28,11 @@ layout: default
 **Journal Reviewer**
 
 * ACM Transactions on Storage (TOS)
+* IEEE Transactions on Dependable and Secure Computing (TDSC)
 * IEEE Transactions on VLSI (TVLSI)
 * IEEE Transactions on Parallel and Distributed Systems (TPDS)
 * IEEE Computer Architecture Letters (CAL)
-* IEEE Micro
-* Journal of Systems Architecture (JSA), Elsevier
 * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 * IEEE Transactions on Computers (TC)
-
+* IEEE Micro
+* Journal of Systems Architecture (JSA), Elsevier
