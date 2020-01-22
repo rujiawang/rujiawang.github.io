@@ -1,50 +1,39 @@
 ---
 title: "Teaching"
 summary: "Teaching"
-date: 2019-08-14
+date: 2020-01-20
 layout: default
 ---
 We will be using Piazza/Blackboard to post detailed schedule/course notes.
 
-#### CS 470 Computer Architecture(Fall 2019)
+#### CS 350 Computer Organization and Assembly Languages (Spring 2020)
 
-Lecture: M/W 11:25AM - 12:40PM 
+Lecture: T/TR 3:15PM - 4:30PM 
 
+Lab: W 3:15PM--4:05PM
 
-##### Introduction
-This is a new computer architecture course offered in the CS department. We will continue to explore the classical as well as the state-of-the-art computer architecture designs that help to build high performance, low power, high scalability, and high-reliability systems.
-As we are living in the post-Moore-law era, the technology scaling difficulties, as well as the emerging applications, bring us many challenges in designing low power and high-performance general purpose computing platforms. This course will cover several design challenges and introduce the trend in current computer architecture and system design.
+#### Introduction
+This course covers several fundamental topics that solve the question: How does the computer system work? You will start with concepts like number representations, digital logics, bit operations. Then, you will start to explore how the control flow and datapath are designed inside of the system. Finally, you will learn how to write assembly language to operate the hardware unit.
 
+The office hour for the TAs are posted on Piazza. 
 
-##### Objectives
-You will study the challenges and designs in computer architecture in order to understand the basics, principles and precedents. Based on such understanding, you will:
+#### Schedule and Lab Assignment
+Please check Blackboard via MyIIT to access slides and assignments.
 
-* learn how a modern computer works underneath, 
-* evaluate tradeoffs of different designs and ideas, 
-* implement a principled design (a simple microprocessor and pipeline), 
-* learn to systematically debug increasingly complex systems, 
-* develop novel, out-of-the-box designs.
+#### Textbook
+Recommended textbooks:
 
-##### Course Organization
-Lectures on classical topics:
+* Computer Organization and Design (5th Edition), by David Patterson and John Hennessy, 2013 Morgan Kauffmann.
+***We will be using this book and cover MIPS architecture in our lecture.***
 
-1.	Cache and memory hierarchy
-2.	Pipeline, out of order execution and speculative execution
-3.	SIMD and GPU
-4.	Multi-core, multi-processor, coherance
-5.	Network and interconnection
-
-Lectures on the state-of-the-art topics:
-
-1.	New memory technologies (NVMs, 3d stack memory, etc)
-2.	Memory centric computing
-3.	Accelerators for machine learning (GPU, TPU ...)
-4.	System security (side channel attacks, SGX, ...)
-
+* Introduction to Computing Systems: From Bits & Gates to C & Beyond (2nd Edition), by Yale Patt and Sanjay Patel, 2004 McGraw-Hill.
+***Another great book covers LC-3 architecture and C programming.***
 
 
 
 #### Past Semesters
 
 * ***CS 350*** : Computer Organization and Assembly Languages ([Fall 2018](/Fall2018)).
+* ***CS 470*** : Computer Architecture ([Fall 2019](/Fall2019)).
 * ***CS 595*** : Emerging Topics in Computer Architecture ([Spring 2019](/Spring2019)).
+
