@@ -1,7 +1,7 @@
 ---
 title: "Research"
 summary: "Research"
-date: 2019-11-18
+date: 2020-01-20
 layout: default
 ---
 ### Welcome to <span style="color:FireBrick">Computer Architecture Lab at Illinois Tech (CALIT)!</span>
@@ -18,13 +18,14 @@ Check the [Publications Page](/publications) to learn more!
 **Ph.D. Students:**
 
 * Mr. Yuezhi Che (2018- )
-* Ms. Jiao Qu (2019- )
 * Mr. Gang Liu (visiting Ph.D. student, 2019- )
 * Interested? Apply [here](/students).
 
 **Master Student**
 
 * Mr. Yuanzhou Yang
+* Mr. Zhou Ni
+
 
 **Undergrad Students**
 
