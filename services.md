@@ -1,13 +1,14 @@
 ---
 title: "Services"
 summary: "Services."
-date: 2019-09-20
+date: 2020-01-20
 layout: default
 ---
 
 
 **Conference Organization Committee**
 
+* Publicity Chair, International Conference on Computer Design (ICCD), 2020
 * Registration Chair, International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2019
 * Registration Chair, IEEE International Symposium on Workload Characterization (IISWC), 2019
 * Publicity Chair, International Conference on Networking, Architecture and Storage (NAS), 2019
@@ -18,7 +19,7 @@ layout: default
 * IEEE International Conference on Computer Design (ICCD), 2019
 * Languages, Compilers, Tools and Theory of Embedded Systems (LCTES), 2019
 * Design Automation Conference (DAC), 2019, 2020
-* Young Architect Workshop (YArch), co-located with HPCA 2019
+* Young Architect Workshop (YArch), 2019, 2020
 * International Symposium on High-performance Computer Architecture (HPCA), 2019(ERC) 
 
 **Journal Editorial**
@@ -36,3 +37,4 @@ layout: default
 * IEEE Transactions on Computers (TC)
 * IEEE Micro
 * Journal of Systems Architecture (JSA), Elsevier
+* ACM Transactions on Embedded Computing Systems (TECS)
