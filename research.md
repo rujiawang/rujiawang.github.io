@@ -17,7 +17,7 @@ Check the [Publications Page](/publications) to learn more!
 
 **Ph.D. Students:**
 
-* Mr. Yuezhi Che (2018- )
+* Mr. [Yuezhi Che](https://archtedche.github.io/yuezhi-che/) (2018- )
 * Mr. Gang Liu (visiting Ph.D. student, 2019- )
 * Interested? Apply [here](/students).
 
