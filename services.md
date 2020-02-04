@@ -8,7 +8,6 @@ layout: default
 
 **Conference Organization Committee**
 
-* Publicity Chair, International Conference on Computer Design (ICCD), 2020
 * Registration Chair, International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2019
 * Registration Chair, IEEE International Symposium on Workload Characterization (IISWC), 2019
 * Publicity Chair, International Conference on Networking, Architecture and Storage (NAS), 2019
