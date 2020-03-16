@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 summary: "Publications"
-date: 2019-11-06
+date: 2019-03-15
 layout: default
 ---
 Check the full list of publications at [Google Scholar](https://scholar.google.com/citations?user=IbOb-M4AAAAJ&hl=en).
@@ -11,13 +11,15 @@ Check the full list of publications at [Google Scholar](https://scholar.google.c
 \* Students I primarily advise.
 
 ### Conference Papers
-1. [HPCA 2020] Yuezhi Che\*, __Rujia Wang__, <br/>
+1. [DAC 2020-WIP] Yuezhi Che\*, Yuanzhou Yang\*, Amro Awad, and __Rujia Wang__,<br/>
+*O-NVM: NVM-friendly Lightweight Memory Access Pattern Obfuscation*
+1. [HPCA 2020] Yuezhi Che\*, and __Rujia Wang__, <br/>
 *Multi-range Supported Oblivious RAM for Efficient Block Data Retrieval* 
-1. [ICCD 2019] Yuezhi Che\*, Yuan Hong, __Rujia Wang__,<br/>
+1. [ICCD 2019] Yuezhi Che\*, Yuan Hong, and __Rujia Wang__,<br/>
 *Imbalance-aware scheduler for fast and secure Ring ORAM data retrieval*
 1. [DAC 2019] Liang Liu\*, __Rujia Wang__, Youtao Zhang, and Jun Yang,<br/>
 *H-ORAM: A Cacheable ORAM Interface for Efficient I/O Accesses*
-1. [DAC 2019-WIP] Yuezhi Che\*, __Rujia Wang__,<br/>
+1. [DAC 2019-WIP] Yuezhi Che\*, and __Rujia Wang__,<br/>
 *Improving Ring ORAM Read Performance with Imbalance-aware Scheduling*
 1. [ASPDAC 2019] Xianwei Zhang, __Rujia Wang__, Youtao Zhang, and Jun Yang,<br/>
 *Boosting Chipkill Capability under Retention-Error Induced Reliability Emergency*
@@ -45,4 +47,4 @@ Check the full list of publications at [Google Scholar](https://scholar.google.c
 
 ### Patent
 1. __Rujia Wang__, Youtao Zhang, and Jun Yang,<br/>
- *Practical ORAM Delegation for Untrusted Memory On Cloud Servers*, Patent filed
+ *Practical ORAM Delegation for Untrusted Memory On Cloud Servers*, US Patent App. 16/526,108
