@@ -1,7 +1,7 @@
 ---
 title: "Research"
 summary: "Research"
-date: 2020-01-20
+date: 2020-03-20
 layout: default
 ---
 ### Welcome to <span style="color:FireBrick">Computer Architecture Lab at Illinois Tech (CALIT)!</span>
@@ -18,6 +18,7 @@ Check the [Publications Page](/publications) to learn more!
 **Ph.D. Students:**
 
 * Mr. [Yuezhi Che](https://archtedche.github.io/yuezhi-che/) (2018- )
+* Mr. Xiaoyang Lu (co-advised with Prof. Xian-He Sun )
 * Mr. Gang Liu (visiting Ph.D. student, 2019- )
 * Interested? Apply [here](/students).
 
@@ -31,6 +32,7 @@ Check the [Publications Page](/publications) to learn more!
 
 * Ms. Iris Uwizeyimana (co-advised with Kyle Hale)
 * Mr. Hussain Khajanchi (co-advised with Kyle Hale)
+* Mr. Dingyuan Cao (UG student at Tsinghua University)
  
 
 
