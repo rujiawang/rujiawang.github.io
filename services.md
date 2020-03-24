@@ -15,7 +15,8 @@ layout: default
 
 **Conference Technical Program Committee**
 
-* IEEE International Conference on Computer Design (ICCD), 2019
+* International Symposium on Microarchitecture (MICRO), 2020
+* International Conference on Computer Design (ICCD), 2019, 2020
 * Languages, Compilers, Tools and Theory of Embedded Systems (LCTES), 2019
 * Design Automation Conference (DAC), 2019, 2020
 * Young Architect Workshop (YArch), 2019, 2020
