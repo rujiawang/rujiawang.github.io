@@ -24,14 +24,14 @@ Check the [Publications Page](/publications) to learn more!
 
 * Interested? Apply [here](/students).
 
-**Undergrad Researcher: **
+**Undergrad Researcher:**
 
 * Mr. Dingyuan Cao (UG student at Tsinghua University)
 * Ms. Jiya Su (UG student at Renmin University)
 * Mr. Bo Hu
 * Mr. Yifan Huang
  
-**Alumni: **
+**Alumni:**
 
 * Ms. Iris Uwizeyimana (co-advised with Kyle Hale)
 * Mr. Zhou Ni
