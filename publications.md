@@ -11,6 +11,10 @@ Check the full list of publications at [Google Scholar](https://scholar.google.c
 \* Students I primarily advise.
 
 ### Conference Papers
+1. [ICPP 2020] Jiya Su, Feng Zhang, Weifeng Liu, Bingsheng He, Ruofan Wu, Xiaoyong Du and __Rujia Wang__,<br/>
+*CapelliniSpTRSV: A Thread-Level Synchronization-Free Sparse Triangular Solve on GPUs* (<font color='red'>Best Paper Candidate</font>)
+1. [arXiv preprint] Zhou Ni\* and __Rujia Wang__,<br/>
+*Performance Evaluation of Secure Multi-party Computation on Heterogeneous Nodes*
 1. [DAC 2020-WIP] Yuezhi Che\*, Yuanzhou Yang\*, Amro Awad, and __Rujia Wang__,<br/>
 *O-NVM: NVM-friendly Lightweight Memory Access Pattern Obfuscation*
 1. [HPCA 2020] Yuezhi Che\*, and __Rujia Wang__, <br/>
