@@ -1,7 +1,7 @@
 ---
 title: "Home"
 summary: "Home"
-date: 2019-05-25
+date: 2019-07-25
 layout: default
 ---
 
@@ -28,6 +28,7 @@ Dr. Rujia Wang is an assistant professor at Computer Science Department, Illinoi
 
 
 ### Updates
+* [Service] Rujia serves as ERC member for HPCA and ASPLOS 2021.
 * [Paper] One collaborative work on accelerating SpTRSV with GPU is accepted at ICPP 2020 and nominated as best paper candidate! The student author, Ms. Jiya Su, will join our research group in the coming Fall.
 * [Service] Rujia serves as TPC member for ICCD 2020 and MICRO 2020.
 * [Paper] One work on multi-range ORAM is accepted in HPCA 2020. This is the first HPCA (top-tier conference in computer architecture) paper with all authors from Illinois Tech!
