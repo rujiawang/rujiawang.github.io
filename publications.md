@@ -1,16 +1,17 @@
 ---
 title: "Publications"
 summary: "Publications"
-date: 2019-03-15
+date: 2020-08-16
 layout: default
 ---
 Check the full list of publications at [Google Scholar](https://scholar.google.com/citations?user=IbOb-M4AAAAJ&hl=en).
 
 ***
 
-\* Students I primarily advise.
 
 ### Conference Papers
+1. [ICCD 2020] Xiaoyang Lu\*, __Rujia Wang__, and Xian-He Sun<br/>
+*APAC: An Accurate and Adaptive Prefetch Framework with Concurrent Memory Access Analysis*
 1. [ICPP 2020] Jiya Su, Feng Zhang, Weifeng Liu, Bingsheng He, Ruofan Wu, Xiaoyong Du and __Rujia Wang__,<br/>
 *CapelliniSpTRSV: A Thread-Level Synchronization-Free Sparse Triangular Solve on GPUs* (<font color='red'>Best Paper Candidate</font>)
 1. [arXiv preprint] Zhou Ni\* and __Rujia Wang__,<br/>
@@ -52,3 +53,6 @@ Check the full list of publications at [Google Scholar](https://scholar.google.c
 ### Patent
 1. __Rujia Wang__, Youtao Zhang, and Jun Yang,<br/>
  *Practical ORAM Delegation for Untrusted Memory On Cloud Servers*, US Patent App. 16/526,108
+
+
+\* Advising students

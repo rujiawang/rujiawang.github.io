@@ -18,7 +18,7 @@ mathjax: false
 markdown: kramdown
 encoding: utf-8
 url: "https://rujiawang.github.io"
-baseurl: ""
+baseurl: "rujiawang.github.io"
 locale: en_GB
 plugins:
   - jekyll-seo-tag
