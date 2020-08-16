@@ -1,8 +1,9 @@
 ---
 title: "Students"
 summary: "."
-date: 2018-11-14
+date: 2020-07-14
 layout: default
+search_omit: true
 ---
 
 I am looking for students with a background in computer science, computer engineering, or electrical engineering who are interested our research.

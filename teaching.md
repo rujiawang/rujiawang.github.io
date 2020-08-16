@@ -3,6 +3,7 @@ title: "Teaching"
 summary: "Teaching"
 date: 2020-08-17
 layout: default
+search_omit: true
 ---
 
 #### Courses

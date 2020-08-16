@@ -3,6 +3,7 @@ title: "Teaching"
 summary: "Teaching"
 date: 2019-01-14
 layout: default
+search_omit: true
 ---
 We will be using Piazza/Blackboard to post detailed schedule/course notes.
 

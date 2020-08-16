@@ -3,6 +3,7 @@ title: "Publications"
 summary: "Publications"
 date: 2020-08-16
 layout: default
+search_omit: true
 ---
 Check the full list of publications at [Google Scholar](https://scholar.google.com/citations?user=IbOb-M4AAAAJ&hl=en).
 
