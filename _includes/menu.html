@@ -26,4 +26,22 @@
 			{% endfor %}
 		</ul>
 
+		<form action="./search" method="get" class="form-inline pull-right invisible" role="search">
+		<div class="input-group">
+			<input type="text" class="form-control" placeholder="Search..." name="q">
+			<span class="input-group-btn">
+				<button class="btn btn-secondary" type="submit">
+					<i class="fa fa-search"></i>
+				</button>
+			</span>
+		</div>
+	</form>
+
+	<aside class="external_links">
+		<ul class="nav navigation">
+		{% for item in site.menu_external %}
+			<li><a href="{{ item.url }}" target="_blank">{{ item.title }}</a></li>
+		{% endfor %}
+		</ul>
+	</aside>
 	</nav>

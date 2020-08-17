@@ -26,7 +26,9 @@ html, body {
 body {
   margin: 0;
 }
-
+* {
+    -webkit-overflow-scrolling: touch;
+}
 /**************
 ## Container ##
 **************/

@@ -140,7 +140,11 @@ h1, h2, h3, h4, h5, h6 {
 	color: #333333;
 	text-decoration: none;
 }
-
+form[role="search"] {margin-top: 2em;}
+form[role="search"] .input-group {
+	width: 100%;
+    max-width: 25em;
+}
 .nav.navigation li a[data-toggle="collapse"] {padding-right: 1.5em;}
 .nav.navigation li a[data-toggle="collapse"]:after {
 	content: '\e812';
