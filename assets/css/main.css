@@ -41,7 +41,9 @@ article a.anchorjs-link {
 .fa-gplus:hover:before {color: #C43220;}
 
 /* Defaults */
-
+* {
+    -webkit-overflow-scrolling: touch;
+}
 body {
 	font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
 	line-height: 1.8;
