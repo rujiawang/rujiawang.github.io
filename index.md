@@ -1,7 +1,7 @@
 ---
 title: "Home"
 summary: "Home"
-date: 2020-08-17
+date: 2020-08-24
 layout: default
 search_omit: true
 ---
@@ -15,7 +15,7 @@ Dr. Rujia Wang is an assistant professor at Computer Science Department, Illinoi
 ✉️: rwang67@iit.edu
 
 
-### Research Interests
+### Research Interests: 
 **I do research in computer architecture and system area, including:**
 
 * Scalable memory systems,
@@ -28,11 +28,12 @@ Dr. Rujia Wang is an assistant professor at Computer Science Department, Illinoi
 <span style="color:blue">***[For IIT B.S. and M.S. students] If you are interested in working with me on a project, please stop by my office.***</span>
 
 
-### Updates
+### What's New: 
+* [NSF Grant] Received an NSF PPoSS award as PI. We are excited to start this new cross-layer collaborative project!
 * [Paper] A novel concurrency-aware prefetching framework is accepted as a full paper in ICCD 2020.
 * [Service] Rujia serves as ERC member for HPCA and ASPLOS 2021.
-* [Paper] One collaborative work on accelerating SpTRSV with GPU is accepted at ICPP 2020 and nominated as best paper candidate! The student author, Ms. Jiya Su, will join our research group in the coming Fall.
-* [Service] Rujia serves as TPC member for ICCD 2020 and MICRO 2020.
+* [Paper] Our collaborative work on accelerating SpTRSV with GPU is accepted at ICPP 2020 and nominated as best paper candidate! The student author, Ms. Jiya Su, will become our group member as a PhD student.
+* [Service] Rujia serves as TPC member for ICCD and MICRO 2020.
 * [Paper] One work on multi-range ORAM is accepted in HPCA 2020. This is the first HPCA (top-tier conference in computer architecture) paper with all authors from Illinois Tech!
 * [Service] Rujia serves as a co-guest editor for [IEEE TC’s Special Issue on Hardware Security](https://www.computer.org/digital-library/journals/tc/call-for-papers-special-issue-on-hardware-security). We look forward to your best work.
 * [Paper] One work on high-performance ORAM is accepted as a full paper in ICCD 2019.
