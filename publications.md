@@ -23,7 +23,8 @@ Check the full list of publications at [Google Scholar](https://scholar.google.c
 *O-NVM: NVM-friendly Lightweight Memory Access Pattern Obfuscation*
 1. [Preprint] Zhou Ni\* and __Rujia Wang__,<br/>
 *Performance Evaluation of Secure Multi-party Computation on Heterogeneous Nodes*
-
+1. [Patent] __Rujia Wang__, Youtao Zhang, and Jun Yang,<br/>
+ *Practical ORAM Delegation for Untrusted Memory On Cloud Servers*, US Patent App. 16/526,108
 
 ### 2019
 1. [ICCD 2019] Yuezhi Che\*, Yuan Hong, and __Rujia Wang__,<br/>
@@ -34,6 +35,7 @@ Check the full list of publications at [Google Scholar](https://scholar.google.c
 *Boosting Chipkill Capability under Retention-Error Induced Reliability Emergency*
 1. [DAC 2019-WIP] Yuezhi Che\*, and __Rujia Wang__,<br/>
 *Improving Ring ORAM Read Performance with Imbalance-aware Scheduling*
+
 
 
 ### 2018 and Before
@@ -57,10 +59,5 @@ Check the full list of publications at [Google Scholar](https://scholar.google.c
 
 
 
-
-
-### Patent
-1. __Rujia Wang__, Youtao Zhang, and Jun Yang,<br/>
- *Practical ORAM Delegation for Untrusted Memory On Cloud Servers*, US Patent App. 16/526,108
 
 
