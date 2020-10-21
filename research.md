@@ -21,9 +21,8 @@ Check the [Publications Page](/publications) to learn more!
 * Mr. [Yuezhi Che](https://archtedche.github.io/yuezhi-che/) (2018- )
 * Mr. Xiaoyang Lu (co-advised with Prof. Xian-He Sun, 2019- )
 * Mr. Gang Liu (visiting Ph.D. student, 2019- )
-* Ms. Jiya Su (2020-)
-* Mr. Yuanzhou Yang (M.S., 2019- )
-
+* Ms. Jiya Su (2020- )
+* Mr. Yuanzhou Yang (M.S., 2019- )  
 * Interested? Apply [here](/students).
 
 **Undergrad Researcher:**
