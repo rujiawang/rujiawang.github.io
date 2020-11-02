@@ -1,7 +1,7 @@
 ---
 title: "Home"
 summary: "Home"
-date: 2020-08-24
+date: 2020-11-02
 layout: default
 search_omit: true
 ---
@@ -29,7 +29,9 @@ Dr. Rujia Wang is an assistant professor at Computer Science Department, Illinoi
 
 
 ### What's New: 
-* [NSF Grant] Received an [NSF PPoSS](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2029014) award as PI. We are excited to start this new cross-layer collaborative project!
+* [Paper] Our new work on spatial and temporal optimiazation for ORAM is accepted in HPCA 2021.
+* [Service] Rujia serves as TPC/ERC member for ISCA, IPDPS and DAC 2021.
+* [NSF Grant] Received an [NSF PPoSS](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2029014) award as PI. We are excited to start this new cross-layer collaborative project. 
 * [Paper] A novel concurrency-aware prefetching framework is accepted as a full paper in ICCD 2020.
 * [Service] Rujia serves as ERC member for HPCA and ASPLOS 2021.
 * [Paper] Our collaborative work on accelerating SpTRSV with GPU is accepted at ICPP 2020 and nominated as best paper candidate! The student author, Ms. Jiya Su, will become our group member as a PhD student.

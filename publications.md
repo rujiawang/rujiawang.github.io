@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 summary: "Publications"
-date: 2020-10-21
+date: 2020-11-2
 layout: default
 search_omit: trues
 ---
@@ -9,13 +9,15 @@ Check the full list of publications at [Google Scholar](https://scholar.google.c
 (\* Advising students)
 
 ***
-
+### 2021
+1. [HPCA 2021] Dingyuan Cao\*, Mingzhe Zhang, Hang Lu, Xiaochuan Ye, Dongrui Fan, Yuezhi Che\*, and __Rujia Wang__,  
+*Streamline Ring ORAM Accesses through Spatial and Temporal Optimization*
 
 
 ### 2020
-1. [ICCD 2020] Xiaoyang Lu\*, __Rujia Wang__, and Xian-He Sun<br/>
+1. [ICCD 2020] Xiaoyang Lu\*, __Rujia Wang__, and Xian-He Sun,  
 *APAC: An Accurate and Adaptive Prefetch Framework with Concurrent Memory Access Analysis*
-1. [ICPP 2020] Jiya Su, Feng Zhang, Weifeng Liu, Bingsheng He, Ruofan Wu, Xiaoyong Du and __Rujia Wang__,<br/>
+1. [ICPP 2020] Jiya Su, Feng Zhang, Weifeng Liu, Bingsheng He, Ruofan Wu, Xiaoyong Du and __Rujia Wang__,  
 *CapelliniSpTRSV: A Thread-Level Synchronization-Free Sparse Triangular Solve on GPUs* (<font color='red'>Best Paper Candidate</font>)
 1. [HPCA 2020] Yuezhi Che\*, and __Rujia Wang__, <br/>
 *Multi-range Supported Oblivious RAM for Efficient Block Data Retrieval* 
