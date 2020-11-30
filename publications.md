@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 summary: "Publications"
-date: 2020-11-2
+date: 2020-12-1
 layout: default
 search_omit: trues
 ---
@@ -12,7 +12,8 @@ Check the full list of publications at [Google Scholar](https://scholar.google.c
 ### 2021
 1. [HPCA 2021] Dingyuan Cao\*, Mingzhe Zhang, Hang Lu, Xiaochuan Ye, Dongrui Fan, Yuezhi Che\*, and __Rujia Wang__,  
 *Streamline Ring ORAM Accesses through Spatial and Temporal Optimization*
-
+1. [CAL 2021] Yuezhi Che\*, Yuanzhou Yang\*, Amro Awad, and __Rujia Wang__,<br/>
+*A Lightweight Memory Access Pattern Obfuscation Framework for NVM*
 
 ### 2020
 1. [ICCD 2020] Xiaoyang Lu\*, __Rujia Wang__, and Xian-He Sun,  
